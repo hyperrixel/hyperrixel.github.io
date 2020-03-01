@@ -7,9 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Repositories', folder: 'pages', file: 'facts.html'}
-- {name: 'Projects', folder: 'pages', file: 'resources.html'}
-- {name: 'Future', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Repositories', folder: 'pages', file: 'repositories.html'}
+- {name: 'Projects', folder: 'pages', file: 'projects.html'}
+- {name: 'Future', folder: 'pages', file: 'future.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
