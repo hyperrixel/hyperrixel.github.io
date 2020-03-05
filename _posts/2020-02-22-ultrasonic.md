@@ -9,5 +9,9 @@ image: ultrasonic.jpg
 
 # Ultrasonic sensor never tested easier
 
-The repository ultrasonic_sensor_test contains a command line test tool for HC­SR04 Ultrasonic Sensor connected via RPi GPIO.
+Sensors have important role in the world of IoT. They help computers to sense that world. Before we use a sensor in a real-world machine it’s a must to know every parameters of it. Some important attributes are mentioned in guides and data sheets but to get to know the real-world behavior worths some testing or even some fine tuning as well.
+
+Therefore we publish our [repository](https://github.com/hyperrixel/ultrasonic_sensor_test) which includes a small script that helps to be more familiar with the strength and limits of you ultrasonic distance sensor.
+
+
 
